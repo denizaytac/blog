@@ -3,10 +3,10 @@ module.exports = {
     title: `Creating and curating what is useful`,
     author: {
       name: `Deniz Aytac`,
-      summary: `who lives and works in Munich. Is passionate about learning, business, cooking and photography.`,
+      summary: `I live and work in Munich ⛰️🍺🇩🇪. In my free time I consume educational 🎓content, keep looking out for amazing 🔎products, enjoy cooking 🍳or taking pictures 📷of people marrying.`,
     },
     description: `Writing about .`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://denizaytac.com/`,
     social: {
       twitter: `dno_ay`,
     },
@@ -79,5 +79,6 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    'gatsby-plugin-dark-mode',
   ],
 }
