@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Creating and curating what is useful`,
+    title: `Hi!`,
     author: {
       name: `Deniz Aytac`,
-      summary: `I live and work in Munich ⛰️🍺🇩🇪. In my free time I consume educational 🎓content, keep looking out for amazing 🔎products, enjoy cooking 🍳or taking pictures 📷of people marrying.`,
+      summary: `I design User Experience.`,
     },
     description: `Writing about .`,
     siteUrl: `https://denizaytac.com/`,
