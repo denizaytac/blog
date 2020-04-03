@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Hi!`,
+    title: `Connecting the dots of UX and Business`,
     author: {
       name: `Deniz Aytac`,
-      summary: `I design User Experience.`,
+      summary: `I am a UX Designer and Strategist.`,
     },
     description: `Writing about .`,
     siteUrl: `https://denizaytac.com/`,
