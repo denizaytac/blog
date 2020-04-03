@@ -3,7 +3,7 @@ module.exports = {
     title: `Connecting the Dots of UX and Business`,
     author: {
       name: `Deniz Aytac`,
-      summary: `I craft 🛠 innovative digital products that people 🙋🏽 want.`,
+      summary: `I craft 🛠 innovative digital products that people want.`,
     },
     description: `Writing about .`,
     siteUrl: `https://denizaytac.com/`,
