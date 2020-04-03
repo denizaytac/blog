@@ -57,7 +57,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Personal blog by <strong>{author.name}</strong>. {author.summary}
+        Personal blog by <strong>{author.name}</strong>. <p>{author.summary}</p>
       </p>
     </div>
   )
