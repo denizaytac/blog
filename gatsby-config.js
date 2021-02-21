@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Connecting the Dots of Business, Innovation and Customer Experience`,
+    title: `Connecting the Dots of UX and Business`,
     author: {
       name: `Deniz Aytac`,
-      summary: `Here you can expect me sharing ideas, experience and learnings. Because I'm working as a customer success manager most of my posts, will have some connection to that.`,
+      summary: `I craft 🛠 innovative digital products that people want.`,
     },
     description: `Writing about .`,
-    siteUrl: `https://denizaytac.netlify.app/`,
+    siteUrl: `https://denizaytac.com/`,
     social: {
       twitter: `dno_ay`,
     },
