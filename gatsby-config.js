@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Connecting the Dots`,
+    title: `Connecting the Dots ...`,
     author: {
       name: `Deniz Aytac`,
-      summary: `Here you can expect me sharing my ideas, experience and learnings.`,
+      summary: `Here you can expect me sharing my ideas, experience and learnings about life, art, startups and other things that interest me.`,
     },
     description: `Writing about .`,
     siteUrl: `https://denizaytac.netlify.app/`,
