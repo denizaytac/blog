@@ -25,4 +25,4 @@ It's a brand new day.\
 I see my little orange flowers\
 They're perfectly okay.
 
-![](/images/uploads/orange-flowers.jpg)
+![](https://www.interglobalmedianetwork.com/static/3fabc589d40825acec88d921d228eab5/dc834/fredy-jacob-764477-unsplash.jpg)
